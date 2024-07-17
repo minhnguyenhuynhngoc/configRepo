@@ -19,7 +19,3 @@ spec:
         image: minhnguyenhuynhngoc/project-demo:v1
         ports:
         - containerPort: 3000
-
-  
-
-  
