@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: minhnguyenhuynhngoc/project-demo:64
+        image: minhnguyenhuynhngoc/project-demo:69
         ports:
         - containerPort: 3000
